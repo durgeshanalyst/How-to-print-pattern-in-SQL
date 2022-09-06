@@ -1,0 +1,1 @@
+# How-to-print-pattern-in-SQL
